@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lavoro finale</string>
+    <string name="hello_world">buona sera Mondo</string>
+    <string name="title_activity_statistics">Statistiche</string>
+    <string name="fire">Fuoco</string>
+    <string name="abort">Abolizione</string>
+    <string name="sms">Invio del messaggio riuscito</string>
+    <string name="timer">secondi rimasti</string>
+    <string name="Gs">statistiche generali</string>
+    <string name="NoOfNots">Numero di notifiche</string>
+    <string name="NoOfFire">Numero di fuoco</string>
+    <string name="NoOfFall">Numero di rilascio</string>
+    <string name="PerOfFire">Percentuale di fuoco</string>
+    <string name="PerOfFall">Percentuale di rilascio</string>
+    <string name="uploading">Caricamento dell\'immagine...</string>
+    <string name="uploaded">Fine caricamento</string>
+    <string name="cancelAlert">avviso annullato</string>
+</resources>
