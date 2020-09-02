@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Τελική Εργασία</string>
+    <string name="title_activity_statistics">Στατιστικά</string>
+    <string name="fire">Φωτιά</string>
+    <string name="abort">Κατάργηση</string>
+    <string name="sms">Επιτυχημένη Αποστολή Μηνύματος</string>
+    <string name="timer">Δευτερόλεπτα που απομένουν</string>
+    <string name="Gs">Γενικά Στατιστικά</string>
+    <string name="NoOfNots">Αριθμός Ειδοποιήσεων</string>
+    <string name="NoOfFire">Αριθμός Φωτιών</string>
+    <string name="NoOfFall">Αριθμός Πτώσεων</string>
+    <string name="PerOfFall">Ποσοστό Πτώσεων</string>
+    <string name="PerOfFire">Ποσοστό Φωτιών</string>
+    <string name="hello_world">Καλησπέρα Κόσμε</string>
+    <string name="uploading">Ανέβασμα Φωτογραφίας...</string>
+    <string name="uploaded">Ολοκληρωμένο Ανέβασμα</string>
+    <string name="cancelAlert">Ακυρωμένοι Συναγερμοί</string>
+</resources>
